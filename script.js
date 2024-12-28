@@ -15,7 +15,7 @@ function gettingImges() {
           alt="Employees photos"
         />`;
   }
-  container.innerHTML = myImges x;
+  container.innerHTML = myImges;
 }
 
 gettingImges();
